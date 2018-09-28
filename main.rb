@@ -52,10 +52,9 @@ frutas = ['Manzana','Pera','Uva','Anon','Durazno']
 	#puts "El numero vale #{numero}"
 #end
 
-#i = 0
-#while 1<0
+#i=0
+#while i<0
 	#puts "i vale #{i}"
-	#i+=1;
 	#i=i+1
 #end
 
